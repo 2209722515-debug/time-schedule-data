@@ -1,0 +1,12 @@
+{
+  "schedules": [],
+  "adminUsers": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "name": "系统管理员"
+    }
+  ],
+  "lastUpdated": "2024-01-01T00:00:00.000Z",
+  "version": "1.0"
+}
