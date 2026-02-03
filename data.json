@@ -1,12 +1,25 @@
 {
-  "schedules": [],
+  "schedules": [
+    {
+      "id": "ml623blefjchg0o6s",
+      "date": "2026-02-03",
+      "startTime": "13:45",
+      "endTime": "14:45",
+      "status": "busy",
+      "adminName": "系统管理员",
+      "createdBy": "admin",
+      "createdAt": "2026-02-03T03:45:50.450Z",
+      "updatedAt": "2026-02-03T03:45:50.450Z"
+    }
+  ],
   "adminUsers": [
     {
       "username": "admin",
-      "password": "admin123",
       "name": "系统管理员"
     }
   ],
-  "lastUpdated": "2024-01-01T00:00:00.000Z",
-  "version": "1.0"
+  "lastSync": "2026-02-03T05:55:39.515Z",
+  "version": "2.0",
+  "updatedBy": "系统管理员",
+  "updatedAt": "2026-02-03T05:55:39.515Z"
 }
