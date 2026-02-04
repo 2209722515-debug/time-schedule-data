@@ -12,17 +12,6 @@
       "updatedAt": "2026-02-03T05:56:06.456Z"
     },
     {
-      "id": "ml7d2iwe893un0yqf",
-      "date": "2026-02-04",
-      "startTime": "09:40",
-      "endTime": "10:40",
-      "status": "free",
-      "adminName": "系统管理员",
-      "createdBy": "admin",
-      "createdAt": "2026-02-04T01:40:55.214Z",
-      "updatedAt": "2026-02-04T01:40:55.214Z"
-    },
-    {
       "id": "ml7rzuzgjmdcoogmf",
       "date": "2026-02-04",
       "startTime": "16:40",
@@ -44,8 +33,8 @@
       "name": "xxx"
     }
   ],
-  "lastSync": "2026-02-04T12:13:07.077Z",
+  "lastSync": "2026-02-04T12:13:14.238Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-04T12:13:07.107Z"
+  "updatedAt": "2026-02-04T12:13:14.238Z"
 }
