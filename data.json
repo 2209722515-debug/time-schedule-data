@@ -32,6 +32,17 @@
       "createdBy": "admin",
       "createdAt": "2026-02-04T02:02:23.629Z",
       "updatedAt": "2026-02-04T02:02:23.629Z"
+    },
+    {
+      "id": "ml7rzuzgjmdcoogmf",
+      "date": "2026-02-04",
+      "startTime": "16:40",
+      "endTime": "16:55",
+      "status": "busy",
+      "adminName": "系统管理员",
+      "createdBy": "admin",
+      "createdAt": "2026-02-04T08:38:45.148Z",
+      "updatedAt": "2026-02-04T08:38:45.149Z"
     }
   ],
   "adminUsers": [
@@ -44,8 +55,8 @@
       "name": "xxx"
     }
   ],
-  "lastSync": "2026-02-04T08:23:28.185Z",
+  "lastSync": "2026-02-04T08:38:48.158Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-04T08:23:28.186Z"
+  "updatedAt": "2026-02-04T08:38:48.158Z"
 }
