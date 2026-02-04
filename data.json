@@ -1,17 +1,6 @@
 {
   "schedules": [
     {
-      "id": "ml7d2iwe893un0yqf",
-      "date": "2026-02-04",
-      "startTime": "09:40",
-      "endTime": "10:40",
-      "status": "free",
-      "adminName": "系统管理员",
-      "createdBy": "admin",
-      "createdAt": "2026-02-04T01:40:55.214Z",
-      "updatedAt": "2026-02-04T01:40:55.214Z"
-    },
-    {
       "id": "ml66qugo04u5p0vl8",
       "date": "2026-02-03",
       "startTime": "14:55",
@@ -21,17 +10,6 @@
       "createdBy": "admin",
       "createdAt": "2026-02-03T05:56:06.456Z",
       "updatedAt": "2026-02-03T05:56:06.456Z"
-    },
-    {
-      "id": "ml7du51p2nkv4senk",
-      "date": "2026-02-04",
-      "startTime": "12:05",
-      "endTime": "13:08",
-      "status": "busy",
-      "adminName": "系统管理员",
-      "createdBy": "admin",
-      "createdAt": "2026-02-04T02:02:23.629Z",
-      "updatedAt": "2026-02-04T02:02:23.629Z"
     }
   ],
   "adminUsers": [
@@ -44,8 +22,8 @@
       "name": "xxx"
     }
   ],
-  "lastSync": "2026-02-04T08:19:28.714Z",
+  "lastSync": "2026-02-04T08:20:42.437Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-04T08:19:28.715Z"
+  "updatedAt": "2026-02-04T08:20:42.437Z"
 }
