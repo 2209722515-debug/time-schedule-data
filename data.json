@@ -21,17 +21,6 @@
       "createdBy": "admin",
       "createdAt": "2026-02-05T01:02:12.674Z",
       "updatedAt": "2026-02-05T01:02:12.674Z"
-    },
-    {
-      "id": "ml8rhxbrp3pddfipv",
-      "date": "2026-02-05",
-      "startTime": "10:12",
-      "endTime": "11:12",
-      "status": "busy",
-      "adminName": "系统管理员",
-      "createdBy": "admin",
-      "createdAt": "2026-02-05T01:12:34.551Z",
-      "updatedAt": "2026-02-05T01:12:34.551Z"
     }
   ],
   "adminUsers": [
@@ -44,8 +33,8 @@
       "name": "xxx"
     }
   ],
-  "lastSync": "2026-02-05T01:34:10.635Z",
+  "lastSync": "2026-02-05T01:34:16.170Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-05T01:34:10.635Z"
+  "updatedAt": "2026-02-05T01:34:16.170Z"
 }
