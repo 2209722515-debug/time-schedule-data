@@ -27,10 +27,14 @@
     {
       "username": "admin",
       "name": "系统管理员"
+    },
+    {
+      "username": "aaaaast",
+      "name": "xxx"
     }
   ],
-  "lastSync": "2026-02-05T01:09:40.012Z",
+  "lastSync": "2026-02-05T01:10:36.699Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-05T01:09:40.013Z"
+  "updatedAt": "2026-02-05T01:10:36.700Z"
 }
