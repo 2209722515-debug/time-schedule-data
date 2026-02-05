@@ -10,17 +10,6 @@
       "createdBy": "admin",
       "createdAt": "2026-02-03T05:56:06.456Z",
       "updatedAt": "2026-02-03T05:56:06.456Z"
-    },
-    {
-      "id": "ml8r4lhdhzdtbgnc5",
-      "date": "2026-02-05",
-      "startTime": "15:06",
-      "endTime": "16:02",
-      "status": "free",
-      "adminName": "系统管理员",
-      "createdBy": "admin",
-      "createdAt": "2026-02-05T01:02:12.674Z",
-      "updatedAt": "2026-02-05T01:02:12.674Z"
     }
   ],
   "adminUsers": [
@@ -33,8 +22,8 @@
       "name": "xxx"
     }
   ],
-  "lastSync": "2026-02-05T01:02:15.680Z",
+  "lastSync": "2026-02-05T01:02:49.663Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-05T01:02:15.680Z"
+  "updatedAt": "2026-02-05T01:02:49.664Z"
 }
