@@ -10,16 +10,53 @@
       "createdBy": "admin",
       "createdAt": "2026-02-06T03:15:15.638Z",
       "updatedAt": "2026-02-06T03:15:15.638Z"
+    },
+    {
+      "id": "ml66qugo04u5p0vl8",
+      "date": "2026-02-03",
+      "startTime": "14:55",
+      "endTime": "15:55",
+      "status": "busy",
+      "adminName": "系统管理员",
+      "createdBy": "admin",
+      "createdAt": "2026-02-03T05:56:06.456Z",
+      "updatedAt": "2026-02-03T05:56:06.456Z"
+    },
+    {
+      "id": "ml8r4lhdhzdtbgnc5",
+      "date": "2026-02-05",
+      "startTime": "15:06",
+      "endTime": "16:02",
+      "status": "free",
+      "adminName": "系统管理员",
+      "createdBy": "admin",
+      "createdAt": "2026-02-05T01:02:12.674Z",
+      "updatedAt": "2026-02-05T01:02:12.674Z"
+    },
+    {
+      "id": "ml8rhxbrp3pddfipv",
+      "date": "2026-02-05",
+      "startTime": "10:12",
+      "endTime": "11:12",
+      "status": "busy",
+      "adminName": "系统管理员",
+      "createdBy": "admin",
+      "createdAt": "2026-02-05T01:12:34.551Z",
+      "updatedAt": "2026-02-05T01:12:34.551Z"
     }
   ],
   "adminUsers": [
     {
       "username": "admin",
       "name": "系统管理员"
+    },
+    {
+      "username": "tsw123456",
+      "name": "tsw"
     }
   ],
-  "lastSync": "2026-02-06T03:20:00.262Z",
+  "lastSync": "2026-02-06T03:21:29.220Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-06T03:20:00.262Z"
+  "updatedAt": "2026-02-06T03:21:29.221Z"
 }
