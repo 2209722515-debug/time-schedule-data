@@ -38,14 +38,10 @@
     {
       "username": "admin",
       "name": "系统管理员"
-    },
-    {
-      "username": "tsw123456",
-      "name": "tsw"
     }
   ],
-  "lastSync": "2026-02-05T04:48:30.153Z",
+  "lastSync": "2026-02-06T01:34:53.712Z",
   "version": "2.0",
   "updatedBy": "系统管理员",
-  "updatedAt": "2026-02-05T04:48:30.153Z"
+  "updatedAt": "2026-02-06T01:34:53.712Z"
 }
